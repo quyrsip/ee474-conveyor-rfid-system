@@ -1,0 +1,25 @@
+var _e_c_e474___final___project___r_f_i_d_8ino =
+[
+    [ "LEDPIN", "_e_c_e474___final___project___r_f_i_d_8ino.html#a2b3671e090b0831bfba7d12cfcf2d481", null ],
+    [ "RC522_I2C_ADDRESS", "_e_c_e474___final___project___r_f_i_d_8ino.html#acc0a54d65120183d528626e4e273567e", null ],
+    [ "RC522_RST_PIN", "_e_c_e474___final___project___r_f_i_d_8ino.html#a10fe94968b39b18e89a64b863d8b2fb3", null ],
+    [ "lcd", "_e_c_e474___final___project___r_f_i_d_8ino.html#ae084e1bc8ccb35ea289ba0ca4972ea6d", null ],
+    [ "LED_blink", "_e_c_e474___final___project___r_f_i_d_8ino.html#af749a170694787cc1f1064e9a7fce51e", null ],
+    [ "loop", "_e_c_e474___final___project___r_f_i_d_8ino.html#afe461d27b9c48d5921c00d521181f12f", null ],
+    [ "match_LCD_task", "_e_c_e474___final___project___r_f_i_d_8ino.html#a21a8a47de3e591fbf7e99b2e5ca21219", null ],
+    [ "rfid", "_e_c_e474___final___project___r_f_i_d_8ino.html#af44f875fc7f16fc0282dd336f1d50160", null ],
+    [ "setup", "_e_c_e474___final___project___r_f_i_d_8ino.html#a4fc01d736fe50cf5b977f755b675f11d", null ],
+    [ "time_LCD_task", "_e_c_e474___final___project___r_f_i_d_8ino.html#a359277c3b188fe226f1230242e467c39", null ],
+    [ "valid_RFID_decider_and_checker", "_e_c_e474___final___project___r_f_i_d_8ino.html#aef0de62dbe949f4715e362729b604d99", null ],
+    [ "checkID_handle", "_e_c_e474___final___project___r_f_i_d_8ino.html#aa9fb964522e229352f233df58b1a530a", null ],
+    [ "chosenID", "_e_c_e474___final___project___r_f_i_d_8ino.html#a577feaffd486eda147fdaefffbff8fb9", null ],
+    [ "chosenIDLen", "_e_c_e474___final___project___r_f_i_d_8ino.html#a31a65967f2ff58b354c39bb3acf771a8", null ],
+    [ "IDChosen", "_e_c_e474___final___project___r_f_i_d_8ino.html#a01db7473e816abcda445f333d8aeca7c", null ],
+    [ "LCDMatch_handle", "_e_c_e474___final___project___r_f_i_d_8ino.html#aa6e36d5c8a6f80a8f2f73c72925b81cd", null ],
+    [ "LCDMatchQueue", "_e_c_e474___final___project___r_f_i_d_8ino.html#a8b14a8cde1554f92e04b07509f5c6c90", null ],
+    [ "LCDTime_handle", "_e_c_e474___final___project___r_f_i_d_8ino.html#a16ab6f7b96a821c82beabb8daab8940b", null ],
+    [ "LED_handle", "_e_c_e474___final___project___r_f_i_d_8ino.html#a0ecabdce0fef6c45ea6faa3d27a582a5", null ],
+    [ "LEDMatchQueue", "_e_c_e474___final___project___r_f_i_d_8ino.html#ad16af0bdc8044a1f62c0b224a6d9aea8", null ],
+    [ "reciever_addr", "_e_c_e474___final___project___r_f_i_d_8ino.html#a34dbaaf30dae3352f1466a5583e4bfb9", null ],
+    [ "RTC", "_e_c_e474___final___project___r_f_i_d_8ino.html#a4121c1371d214cc2a823aa663d866e28", null ]
+];
